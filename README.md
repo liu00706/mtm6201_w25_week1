@@ -4,4 +4,3 @@ this is about github puges.
 1. how to create a repo
 2. how to set up github pages.
 3. how to create an issue
-asdkajhdkq
